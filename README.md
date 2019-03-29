@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-[https://panel.notifye.io](Acesse a Plataforma)
+[Acesse a Plataforma](https://panel.notifye.io)
+<button name="platformButton" onclick="https://panel.notifye.io">Acesse a Plataforma</button>
 
 You can use the [editor on GitHub](https://github.com/notifye/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
